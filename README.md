@@ -6,7 +6,7 @@ My name is Stacy! I am an aspiring Software Developer who has just begun my jour
 <img src="https://media-exp1.licdn.com/dms/image/C4E03AQHP8D08Bb3wXw/profile-displayphoto-shrink_800_800/0/1647482437612?e=1661385600&v=beta&t=DJdnbccGeAxXoh8JOqHp4shw4-BzN9gOOg8UlM_h6Wg" width="300" />
 
 ### Growth Mindset
-Having a growth mindset is essential to being a lifelong learner.
+Having a growth mindset is essential to being a lifelong learner. It means that with preseverence and hard work, there is always possibilities to conquer obstacles that you will face. 
 
 Important characteristics of a growth mindset is:
 * Being open-minded to feedback and constructive criticism
