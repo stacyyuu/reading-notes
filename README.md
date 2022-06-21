@@ -10,7 +10,7 @@ Having a growth mindset is essential to being a lifelong learner.
 
 Important characteristics of a growth mindset is:
 * Being open-minded to feedback and constructive criticism
-* Welcoming challenges and have determination to overcome them
-* Be inspired and learn from others who had suceeded 
+* Welcoming challenges and having determination to overcome them
+* Being inspired and learning from others who had suceeded 
 
 These important steps allow you to continuously grow in your field and everyday life. 
