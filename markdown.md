@@ -1,14 +1,14 @@
-# Hello, world
-**Today, we are learning Markdown**
+# Markdown
+## Today, in Code 201 we learned how to use Markdown on Github
+**Github** is used as a coding platform for people to share their projects and collaborate. 
 
-And it is loads of fun!
+Syntax notes of Markdown:
+* Using # will create the largest header 
+* Using ## will create the second largest header and so on...
+* Using ** ** around a word or sentence will **bold** your text
+* Using * * will *italize* your text
+* To create an unordered list you can place * or - in front of each itemed list
+* You can also use numbers before each item 
+* You can add emojis by using :emojicode:, typing in : will give you a suggested list 
 
->First day of Code 201 has been a blast! - Stacy 
-
-``` js
-let name = 'stacy';
-```
-
-View more about [me](https://www.linkedin.com/in/stacy-yu-1a97a722b/) :)
-
-![This is me at Cannon Beach!](https://media-exp1.licdn.com/dms/image/C4E03AQHP8D08Bb3wXw/profile-displayphoto-shrink_800_800/0/1647482437612?e=1661385600&v=beta&t=DJdnbccGeAxXoh8JOqHp4shw4-BzN9gOOg8UlM_h6Wg))
+To find more basic writing and formatting syntax in Markdown, you can visit this [website](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists).
