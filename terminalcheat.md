@@ -16,7 +16,6 @@
 | `cd ~` | Navigate to HOME directory. |
 | `program name --version` | View lastest version of installed program. |
 
-<br>
 
 ### Important Concepts
 - **Relative path**: A file or directory location relative to where we are currently in the file system. 
