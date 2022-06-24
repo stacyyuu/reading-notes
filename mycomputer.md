@@ -1,7 +1,7 @@
 # Coder's Computer
 
 **6/21/22**
- ### Today, in Code 102 we went through the process of preparing our computers for coding and interacted with Terminal. We also learned about text editors.
+### Today, in Code 102 we went through the process of preparing our computers for coding and interacted with Terminal. We also learned about text editors.
 
  ---
 
