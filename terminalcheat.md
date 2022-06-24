@@ -17,7 +17,7 @@
 | `program name --version` | View lastest version of installed program. |
 
 
-### Important Concepts
+## Important Concepts
 - **Relative path**: A file or directory location relative to where we are currently in the file system. 
 - **Absolute path**: A fire or directory location in relation to the root of the file system. 
 - Everything is a file. A text is a file, a directory is a file, your keyboard is a file, your monitor is a file, etc. 

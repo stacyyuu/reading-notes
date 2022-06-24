@@ -29,7 +29,7 @@
 
 | **Command**            |          **Function** |
 | :---: | :---: |
-| `git clone {url}` | Clones GitHub repositories. |
+| `git clone (insert url)` | Clones GitHub repositories. |
 | `git add` | Adds individual files changed to be tracked by Git. |
 | `git add .` | Adds all the files changed to be tracked by Git. |
 | `git commit -m "message here"` | Commits changes. |
