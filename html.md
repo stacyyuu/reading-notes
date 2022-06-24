@@ -43,20 +43,21 @@
 <br> **Sketch > Wireframe > Visual > Code**
 
 ## Steps to Wireframe
-1. **Do research**: Understand who your audience is by way of user research, detailing requirements, creating user personas and defining use cases, and complementing this with further competitor and industry research. 
+1. **Do research**: Understand who your audience is, who your competitors are, and the industry. 
 2. **Prepare research for quick reference**: Create a cheatsheet with all quantitative and qualitative data to use. 
-3. **Have user flow mapped out**: Idea of how many screens will need to be produced and the flow you expect users to follow. 
-4. **Draft, don't draw. Sketch, don't illustrate**: Outlining and representing features and formats, not illustrating in fine detail. 
-<br>- How can you organise the content to support your users’ goals?
-- Which information should be most prominent? Where should your main message go? - What should the user see first when arriving at the page?
-- What will the user expect to see on certain areas of the page?
-- Which buttons or touch points does the user need to complete the desired actions?
-5. **Add some detail and get testing**: Add some informational details to prepare wireframe for upgrade. 
+3. **Have user flow mapped out**: Have an idea of how many screens will need to be produced and the flow you expect users to follow. 
+4. **Draft, don't draw. Sketch, don't illustrate**: Outline and represent features and formats. You do not illustrate in fine detail. 
+<br>
+- Organize content to support user goal. 
+- Detail what is most prominent information, where it should go, and what the user sees first on the page. 
+- What the user expects to see on certain areas of the page. 
+- What buttons or touch points the user needs to complete desired actions. 
+5. **Add some detail and get testing**: Add some informational details to prepare the wireframe for upgrade. 
 <br> 
-- Usability conventions, such as putting the navigation at the top next to your logo, having a search box on the top right, and so on
-- Simple, instructional wording for i.e. calls to action
-- Trust-building elements: What do you need to build trust in your customers and where would be the best place to put these elements?
-- Tooltips to indicate any functionality that could be included in a prototype transition
+- Usability conventions, such as putting the navigation at the top next to your logo, having a search box on the top right, and so on.
+- Simple, instructional wording for i.e. calls-to-action.
+- Trust-building elements: What is needed to build user's trust and where to place these elements. 
+- Tooltips to indicate any functionality that could be included in a prototype transition.
 6. **Start tunung wireframes into prototypes**: Start developing high-fidelity prototypes. Well-known tools such as **Sketch** helps you do this. Once wireframes are developed in Sketch, you can import them into prototyping tool, **InVision**. This is the cross between wireframing to prototyping. 
 
 [Back to main page](README.md)
