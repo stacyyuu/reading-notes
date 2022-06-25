@@ -1,4 +1,4 @@
-# CSS
+# JavaScript
 **6/25/22** 
 ### Today, in Code 102 we learned how to use JavaScript to add functions to our pages. 
 
@@ -25,3 +25,17 @@ Ex. Short names: x, y. Descriptive names: age, sun, totalVolume)
 4. Using `nothing`
 
 **Assignment operator**: Equal sign (=) assigns the value and is not an "equal to" operator. 
+
+**Types of variables**:
+- **Numbers**: Whole numbers, like 30 (also called integers) or decimals, like 2.56 (also called floats or floating point numbers). Quotes are not included when declaring. 
+    - Ex. `let myAge = 17;`
+- **Strings**: Pieces of text. Needs to be wrapped in single or double quote marks. 
+    - Ex. `let dolphinGoodbye = "So long and thanks for all the fish";
+- **Booleans**: True/False values. Used to test a condition, after which code is run as appropriate. 
+    - Ex. `let test = 6 < 3;` This will return `false`.
+- **Arrays**: Single object that contains multiple values enclosed in square brackets and separated by commas. 
+    - Ex. `let myNameArray = ["Stacy","Janaee","Marie"];` <br>
+    `let myNumberArray = [10, 15, 25];`
+- **Objects**: Structure of code that models a real-life object. 
+    - Ex. `let cat = {name: "Maru", breed: "British Shorthair"};`<br>
+    To retreive the information stored in the object, you can use the syntax: `cat.name`.
