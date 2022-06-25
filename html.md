@@ -11,13 +11,13 @@
 - **Content**: What exists in between the tags, such as text. 
 - **Element**: Consists of the opening and closing tag and the content. 
 
-**Attributes**: Ex. < p class ="editor-notes"> My cat is very grumpy </ p>. <br> "class" is attribute name and "editor-notes" is attribute value. 
+**Attributes**: Ex. `<p class ="editor-notes">` My cat is very grumpy `</p>`. <br> "class" is attribute name and "editor-notes" is attribute value. 
 
 **Nesting elements**: Elements can be placed inside other elements.
-<br> Ex. < p> My cat is < strong> very </strong> grumpy < /p>.
+<br> Ex. `<p>` My cat is `<strong>` very `</strong>` grumpy `</p>`.
 
 **Semantics**: Refers to the *meaning* of piece of code. "What purpose or role does HTML element have?"
-<br>Ex of semantics in HTML. < article>, < footer>, < main>, < summary>
+<br>Ex of semantics in HTML. `<article>`, `<footer>`, `<main>`, `<summary>`
 
 | **Element**            |          **Function** |
 | :---: | :---: |
