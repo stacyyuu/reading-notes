@@ -5,7 +5,7 @@
 2. Day Two: [Coder's Computer](mycomputer.md), [Terminal Help](terminalcheat.md)
 3. Day Three: [Revisions and the Cloud](revisionsandcloud.md)
 4. Day Four: [HTML](html.md)
-5. Day Five: [CSS](CSS.md)
+5. Day Five: [CSS](CSS.md), [JavaScript](javascript.md)
 
 ### Introduction 
 My name is Stacy! I am an aspiring Software Developer who has just begun my journey at Code Fellows. I am so excited to learn what it takes to become a sucessful developer.  
