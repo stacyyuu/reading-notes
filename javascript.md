@@ -39,3 +39,6 @@ Ex. Short names: x, y. Descriptive names: age, sun, totalVolume)
 - **Objects**: Structure of code that models a real-life object. 
     - Ex. `let cat = {name: "Maru", breed: "British Shorthair"};`<br>
     To retreive the information stored in the object, you can use the syntax: `cat.name`.
+
+
+    [Back to main page](README.md)

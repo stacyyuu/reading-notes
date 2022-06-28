@@ -6,6 +6,7 @@
 3. Day Three: [Revisions and the Cloud](revisionsandcloud.md)
 4. Day Four: [HTML](html.md)
 5. Day Five: [CSS](CSS.md), [JavaScript](javascript.md)
+6. Day Six: [Programming with JS](js.md)
 
 ### Introduction 
 My name is Stacy! I am an aspiring Software Developer who has just begun my journey at Code Fellows. I am so excited to learn what it takes to become a sucessful developer.  
