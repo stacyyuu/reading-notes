@@ -41,7 +41,7 @@
 **Comparison Operators**: Compares its operands and returns a logical value based on whether the comparison is true. Operands can be numerical, string, logical, or object values. 
 - Strings are compared based upon standard lexicographical ordering, using Unicode values. In most cases, if two operans are not of the same type, JS attempts to convert them into appropriate type of comparison. Generally results in comparing the operands numerically. The sole exceptions are the strict operators. 
 
-| **Comparsion Operator**            |          **Function** |
+| **Comparsion Operator**  |          **Function** |
 | :---: | :---: |
 | `==` | Equal to, returns `true` if operands are equal |
 | `===` | Strict equal, returns `true` if operands are equal and same type |
