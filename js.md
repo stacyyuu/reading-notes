@@ -46,33 +46,6 @@
 <br> `function myFunction() {` <br>
   `let carName = "Volvo";`
 
-| **Operator**            |          **Function** |
-| :---: | :---: |
-| `Addition +` | Adds numbers, ex. `let z = x +y;` |
-| `Assignment =` | Assigns value to variable, ex. `let x = 10;` |
-| `*` | Multiplies numbers |
-| `-` | Subtracts numbers |
-| `**` | Exponentiation, raises first operand to power of second operand, <br>ex. `let z = x ** 2;` result is `25` |
-| `/`| Divides numbers |
-| `%` | Division remainder|
-| `++` | Increment |
-| `--`| Decrement|
-| `+=`| `x += y`, same as `x = x + y`|
-| `let text3 = text1 + "" + text2;`| Concatenate strings |
-| `let z = "Hello" + 5;`| Adds strings and numbers|
-
-| **Comparsion Operator**            |          **Function** |
-| :---: | :---: |
-| `==` | Equal to |
-| `===` | Equal to and equal type |
-| `!=` | Not equal |
-| `!==` | Not equal to and not equal type|
-| `>` | Greater than |
-| `<`| Less than |
-| `>=` | Greater than or equal to|
-| `<=` | Less than or equal to |
-| `?`| Ternary operator |
-
 | **Logical Operator**            |          **Function** |
 | :---: | :---: |
 | `&&` | Logical and |
