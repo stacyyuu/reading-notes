@@ -52,6 +52,7 @@
 | `>=` | Greater than or equal to|
 | `<=` | Less than or equal to |
 | `?`| Ternary operator |
+
 <br>
 <br>
 # <u>LOOPS</u>:
