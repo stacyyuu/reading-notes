@@ -10,7 +10,7 @@ For more information about my experience, check out my [LinkedIn](https://www.li
 ## Table of Contents
 
 ### Code 201
-1. Day One
+1. Day One: [JavaScript and HTML](class-01.md)
 2. Day Two
 3. Day Three
 4. Day Four
