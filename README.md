@@ -10,7 +10,7 @@ For more information about my experience, check out my [LinkedIn](https://www.li
 ## Table of Contents
 
 ### Code 201
-1. Day One: [JavaScript and HTML](class-01.md)
+1. Day One: [JavaScript and HTML](201/class-01.md)
 2. Day Two
 3. Day Three
 4. Day Four
@@ -27,12 +27,12 @@ For more information about my experience, check out my [LinkedIn](https://www.li
 15. Day Fifteen 
 
 ### Code 102
-1. Day One: [Markdown](markdown.md), [Growth Mindset](growthmindset.md)
-2. Day Two: [Coder's Computer](mycomputer.md), [Terminal Help](terminalcheat.md)
-3. Day Three: [Revisions and the Cloud](revisionsandcloud.md)
-4. Day Four: [HTML](html.md)
-5. Day Five: [CSS](CSS.md), [JavaScript](javascript.md)
-6. Day Six: [Programming with JS](js.md)
-7. Day Seven: [Operators and Loops](operatorsandloops.md)
+1. Day One: [Markdown](102/markdown.md), [Growth Mindset](102/growthmindset.md)
+2. Day Two: [Coder's Computer](102/mycomputer.md), [Terminal Help](102/terminalcheat.md)
+3. Day Three: [Revisions and the Cloud](102/revisionsandcloud.md)
+4. Day Four: [HTML](102/html.md)
+5. Day Five: [CSS](102/CSS.md), [JavaScript](120/javascript.md)
+6. Day Six: [Programming with JS](102/js.md)
+7. Day Seven: [Operators and Loops](102/operatorsandloops.md)
 
 
