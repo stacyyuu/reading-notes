@@ -39,7 +39,6 @@
 - Semicolon `;` is where the statement ends. It is only required when you need to separate statements on a single line. However, people believe it's good practice to have semicolons at the end of each statement. 
 - You can name a variable nearly anything, with some restrictions. 
 - Variables may hold values that are different data types: **string**, **number**, **boolean**, **array**, **object**.
-
 <br>
 
 ## Introduction to HTML
@@ -72,7 +71,6 @@
 6. How is the <meta> HTML tag used when specifying metadata?
 - `<meta>` tag goes inside the `<head>` element. 
 - Metadata is data that describes data. 
-
 <br>
 
 ## Miscellaneous

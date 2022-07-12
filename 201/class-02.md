@@ -18,7 +18,6 @@
 
 4. When using the `<abbr>` element, what attribute must be added to provide the full expansion of the term?
 - `<abbr>` represents an abbreviation or acronym. `title` attribute is added to provide an expansion or description. Ex. `<abbr title = 'HyperText Markup Language'>`. 
-
 <br>
 
 ## Learn CSS
@@ -46,7 +45,6 @@
     - Color and padding. 
     3. Which components are considered properties?
     - Black and 5px. 
-
 <br>
 
 ## Learn JS
