@@ -11,7 +11,7 @@ For more information about my experience, check out my [LinkedIn](https://www.li
 
 ### Code 201
 1. Day One: [JavaScript and HTML](201/class-01.md)
-2. Day Two
+2. Day Two: [Basics of HTML, CSS, & JS](201/class-02.md)
 3. Day Three
 4. Day Four
 5. Day Five
