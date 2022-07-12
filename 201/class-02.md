@@ -78,3 +78,8 @@
 7. What is the difference between the logical operator && and ||?
 - `&&` AND; allows you to combine two or more expressions so that they all have to individually equal true for the whole expression to equal true.
 - `||` OR; allows you to combine two or more expressions so that one or more of them have to individually evaluate to true for the whole expression to return true. 
+
+## Things I want to know more about
+- How to use the logical operators. 
+
+[Back to main page](README.md)
