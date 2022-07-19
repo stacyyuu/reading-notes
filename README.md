@@ -13,7 +13,7 @@ For more information about my experience, check out my [LinkedIn](https://www.li
 1. Day One: [JavaScript and HTML](201/class-01.md)
 2. Day Two: [Basics of HTML, CSS, & JS](201/class-02.md)
 3. Day Three: [HTML Lists, Control Flow with JS, & CSS Box Model](201/class-03.md)
-4. Day Four
+4. Day Four: [HTML Links, JS Functions, & Intro to CSS Layout](201/class-04.md)
 5. Day Five
 6. Day Six
 7. Day Seven

@@ -77,7 +77,7 @@
  `// evaluate this
  (a + c) + b;`
 
-- The result turns out to be `'10dog`. This is because c is given a false value, which would cancel it out.
+- The result turns out to be `'10dog'`. This is because c is given a false value, which would cancel it out.
 
 
 5. Describe a real world example of when a conditional statement should be used in a JavaScript program.
@@ -97,3 +97,5 @@
 
 ## Things I want to know more about
 - More practice with loops and conditionals!
+
+[Back to main page](README.md)
