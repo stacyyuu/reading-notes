@@ -50,7 +50,7 @@
 - It ensures your content is readable even if the user's using a very limited browser or a device. 
 
 2. What are a few differences between block-level and inline elements?
-- **Block Level Element** has contents that fill the availabe inline space of the parent element containing it. It grows along the block dimension to accomodate it. 
+- **Block Level Element** has contents that fill the available inline space of the parent element containing it. It grows along the block dimension to accommodate it. 
  -**Inline Elements** has contents that fill to the size of just what it contains. 
  - You can't adjust inline elements by width or height - they sit inside the content of block level elements. 
  - To control the size of an inline element, it has to be set to behave like a block level element. 
@@ -63,7 +63,7 @@
 - To modify, you can use `top`, `bottom`, `left`, and `right` properties. 
 
 4. Name a few advantages to using absolute positioning on an element.
-- `position: aboslute;`
+- `position: absolute;`
 - Creates a separate layer from everything else. 
 - It allows us to create isolated UI features that don't interfere with the layout of other elements on the page. 
 - Ex. popup information boxes, control menus, rollover panels, UI features that can be dragged and dropped anywhere on the page. 
@@ -83,7 +83,7 @@
 `myName();`
 
 2. What is the difference between a parameter and an argument?
-- **Parameters** are values that need to be included inside fuction parenthesis to make sure it does its job properly. 
+- **Parameters** are values that need to be included inside function parenthesis to make sure it does its job properly. 
 - Parameters are properties of a function. *Aliases* for the values that will be passed to the function. 
 - **Arguments** are properties of a particular call to a function. The actual values of the function. 
 

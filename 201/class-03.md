@@ -31,7 +31,7 @@
 2. List and describe the four parts of an HTML elements box as referred to by the box model.
 - **Content**: area where content is displayed. Size it using properties such as inline-size and block-size or width and height. 
 - **Padding**: sits around the content as white space. 
-**Border**: Wraps content and any padding. 
+- **Border**: Wraps content and any padding. 
 - **Margin**: is the outermost layer, wrapping the content, padding, and border as whitespace between this box and other elements. 
 
 ## Learn JS: Arrays, Operators and Expressions, Conitionals, and Loops
