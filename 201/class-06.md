@@ -7,7 +7,7 @@
 ## JavaScript Object Basics
 
 1. How would you describe an object to a non-technical friend you grew up with?
-- An **object** is a standalone entity, with properties, and type. Object properties are basicallty the same as JS variables, except for the attachment to objects. The properties of an object define the characteristics of the object. Objects can also have methods. 
+- An **object** is a standalone entity, with properties, and type. Object properties are basically the same as JS variables, except for the attachment to objects. The properties of an object define the characteristics of the object. Objects can also have methods. 
 2. What are some advantages to creating object literals?
 - An object literal is a comma-separated list of name-value pairs inside of curly braces. These values can be properties and functions. 
 - Advantages include convenience, flexibility in declaration, and less code during declaration. You can drop an object literal anywhere in your program with no previous setup and it'll work. 
