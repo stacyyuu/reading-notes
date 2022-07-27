@@ -15,7 +15,7 @@ For more information about my experience, check out my [LinkedIn](https://www.li
 3. Day Three: [HTML Lists, Control Flow with JS, & CSS Box Model](201/class-03.md)
 4. Day Four: [HTML Links, JS Functions, & Intro to CSS Layout](201/class-04.md)
 5. Day Five: [HTML Images, CSS Color & Text](201/class-05.md)
-6. Day Six
+6. Day Six: [JS Object Literals, the DOM](201/class-06.md)
 7. Day Seven
 8. Day Eight
 9. Day Nine
