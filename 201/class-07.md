@@ -45,3 +45,5 @@
 NOTE: This is a very common front end developer interview question
 - In JavaScript, an object can inherit properties of another object. The object from where the properties are inherited is called the **prototype**. In short, objects can inherit properties from other objects - the prototype.
 - Inheritance solves the problem of data and logic duplication. By inheriting, objects can share properties and methods without the need of manually setting those properties and methods on each object. 
+
+[Back to main page](README.md)

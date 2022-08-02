@@ -17,7 +17,7 @@ For more information about my experience, check out my [LinkedIn](https://www.li
 5. Day Five: [HTML Images, CSS Color & Text](201/class-05.md)
 6. Day Six: [JS Object Literals, the DOM](201/class-06.md)
 7. Day Seven: [HTML Tables, JS Constructor Functions](201/class-07.md)
-8. Day Eight
+8. Day Eight: [CSS Layout, Flexbox](201/class-08.md)
 9. Day Nine
 10. Day Ten
 11. Day Eleven
