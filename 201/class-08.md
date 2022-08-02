@@ -12,9 +12,9 @@
 - Can display as a row or as a column.
 - Respect the writing mode of the document.
 - Single line by default, but can be asked to wrap onto multiple lines.
-- Items in layout can be visibally reordered, away from their order in the DOM.
-- Space can be distrubted inside the items, so they become bigger and smaller according to the space available in their parent.
-- Space can be distrubted around items and flex lines in a wrapped layout, using the Box Alignment properties.
+- Items in layout can be visually reordered, away from their order in the DOM.
+- Space can be distrbuted inside the items, so they become bigger and smaller according to the space available in their parent.
+- Space can be distributed around items and flex lines in a wrapped layout, using the Box Alignment properties.
 - Items themselves can be aligned on the cross axis. 
 
 2. Explain the difference between the main axis and cross axis.
@@ -32,7 +32,7 @@
 - `floats` and `positioning` can be limiting. They are unable to achieve simple layout designs such as:
 - Vertically centering a block of content inside its parent.
 - Making all children of a container take up an equal amount of available width/height, regardless of how much width/height is available. 
-- Makking all columns in a multiple-column layout adopt the same height even if they contain a different amount of content. 
+- Making all columns in a multiple-column layout adopt the same height even if they contain a different amount of content. 
 
 2. How does this topic connect with your long term goals?
 - I would definitely incorporate a flex box in my future projects, I think it's important for a website to have ideal viewing properties.
