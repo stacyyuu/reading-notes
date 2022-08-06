@@ -18,7 +18,7 @@ For more information about my experience, check out my [LinkedIn](https://www.li
 6. Day Six: [JS Object Literals, the DOM](201/class-06.md)
 7. Day Seven: [HTML Tables, JS Constructor Functions](201/class-07.md)
 8. Day Eight: [CSS Layout, Flexbox](201/class-08.md)
-9. Day Nine
+9. Day Nine: [HTML Forms & JS Events](201/class-09.md)
 10. Day Ten
 11. Day Eleven
 12. Day Twelve 
