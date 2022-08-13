@@ -20,7 +20,7 @@ For more information about my experience, check out my [LinkedIn](https://www.li
 8. Day Eight: [CSS Layout, Flexbox](201/class-08.md)
 9. Day Nine: [HTML Forms & JS Events](201/class-09.md)
 10. Day Ten: [JS Debugging](201/class-10.md)
-11. Day Eleven
+11. Day Eleven: [Readings: Audio, Video, Images](201/class-11.md)
 12. Day Twelve 
 13. Day Thirteen
 14. Day Fourteen
