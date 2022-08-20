@@ -1,6 +1,6 @@
 ## Forms and JS Events
 
-### 7/9/22: Our reading today is based on HTML forms and introduction to events in JS. 
+### Our reading today is based on HTML forms and introduction to events in JS. 
 ---
 
 ## HTML Forms: First Web Form & How to Structure it

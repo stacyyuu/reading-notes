@@ -1,6 +1,6 @@
 ## Readings: Chart.js, Canvas
 
-### 7/9/22: Our reading today is based on HTML `<canvas>` element and Chart.js.
+### Our reading today is based on HTML `<canvas>` element and Chart.js.
 ---
 
 ## JavaScript Canvas

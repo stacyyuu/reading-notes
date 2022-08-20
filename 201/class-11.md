@@ -1,6 +1,6 @@
 ## Readings: Audio, Video, Images
 
-### 7/9/22: Our reading today is based on reading, video and audio content, gris, and responsive images. 
+### Our reading today is based on reading, video and audio content, gris, and responsive images. 
 ---
 
 ## Video and Audio Content

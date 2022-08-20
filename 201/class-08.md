@@ -1,6 +1,6 @@
 ## CSS Layout
 
-### 7/9/22: Our reading today is based on learning about CSS Flexbox. 
+### Our reading today is based on learning about CSS Flexbox. 
 
 ---
 

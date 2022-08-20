@@ -1,6 +1,6 @@
 ## JS Debugging
 
-### 7/9/22: Our reading today is based on JS debugging. 
+### Our reading today is based on JS debugging. 
 ---
 
 1. Name some key differences between a Syntax Error and a Logic Error.
