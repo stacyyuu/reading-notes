@@ -5,6 +5,7 @@
 
 1. Why would a developer use local storage for a web application?
 
+- Object stored in cache. Key/value pair, key is the name. Typically value is an object. Storage local only to specific browser and computer. 
 - Storing information locally on a user's computer is a powerful strategy for a developer who is creating something for the Web.
 - HTTP as main transport layer of the Web is thaat it is stateless. This means that when you use an app and then close it, its state will be reset the next time you open it. 
 - If you close an app on your desktop and re-open it, its most recent state is restored. 
@@ -45,3 +46,4 @@
 - `clear():` Clear all localStorage
 - `key():` Passed a number to retrieve the key of a localStorage
 
+[Back to main page](README.md)

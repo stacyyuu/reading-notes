@@ -41,3 +41,4 @@
 2. How could Chart.js aid your previously created applications visually?
 - Chart.js is a JS plugin that uses HTML5's canvas element to create charts more easily. It gives the charts animated features and allows customization. 
 
+[Back to main page](README.md)
