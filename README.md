@@ -23,7 +23,7 @@ For more information about my experience, check out my [LinkedIn](https://www.li
 11. Day Eleven: [Readings: Audio, Video, Images](201/class-11.md)
 12. Day Twelve: [Chart.js, Canvas](201/class-12.md)
 13. Day Thirteen: [Local Storage](201/class-13.md)
-14. Day Fourteen: [CSS Transforms, Transitions, and Animations](201/class-14.md)
+14. Day Fourteen: [CSS Transforms, Transitions, and Animations](201/class-14.md), [Googles Quest for Perfect Team](201/class-14b.md)
 15. Day Fifteen 
 
 ### Code 102
