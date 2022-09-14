@@ -9,10 +9,10 @@ For more information about my experience, check out my [LinkedIn](https://www.li
 
 ## Table of Contents
 
-### Code 301
+### Code 301: Intermediate Software Development
 1. Day One: [Intro to React and Components](301/class-01.md)
 
-### Code 201
+### Code 201: Foundations of Software Development
 1. Day One: [JavaScript and HTML](201/class-01.md)
 2. Day Two: [Basics of HTML, CSS, & JS](201/class-02.md)
 3. Day Three: [HTML Lists, Control Flow with JS, & CSS Box Model](201/class-03.md)
@@ -29,7 +29,7 @@ For more information about my experience, check out my [LinkedIn](https://www.li
 14. Day Fourteen: [CSS Transforms, Transitions, and Animations](201/class-14.md), [Googles Quest for Perfect Team](201/class-14b.md)
 15. Day Fifteen 
 
-### Code 102
+### Code 102: Intro to Software Development
 1. Day One: [Markdown](102/markdown.md), [Growth Mindset](102/growthmindset.md)
 2. Day Two: [Coder's Computer](102/mycomputer.md), [Terminal Help](102/terminalcheat.md)
 3. Day Three: [Revisions and the Cloud](102/revisionsandcloud.md)
