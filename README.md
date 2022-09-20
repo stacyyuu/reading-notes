@@ -11,6 +11,7 @@ For more information about my experience, check out my [LinkedIn](https://www.li
 
 ### Code 301: Intermediate Software Development
 1. Day One: [Intro to React and Components](301/class-01.md)
+2. Day Two: [State and Props](301/class-02.md)
 
 ### Code 201: Foundations of Software Development
 1. Day One: [JavaScript and HTML](201/class-01.md)
