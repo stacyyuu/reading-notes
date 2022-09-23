@@ -11,7 +11,7 @@
 - It does not mutate the original array. 
 2. If I want to loop through an array and display each value in JSX, how do I do that in React?
 - You can use the .map() function. 
-- You can build collections of elements and include them in JSX using cury braces {}.
+- You can build collections of elements and include them in JSX using curly braces {}.
 3. Each list item needs a unique ____.
 - Key. A 'key' is a special string attribute you need to include when creating list of elements. 
 - `<li key = >`
@@ -29,7 +29,7 @@
 1. What is the spread operator?
 - Useful and quick syntax for adding items to arrays, combining arrays or objects, and spreading an array out into a function's argument. 
 - In JS, spread syntax refers to use of ellipsis of three dots `(...)` to expand an iterable object into list of arguments. 
-- When `...arr` is used in funciton call, it expands an iterable object `arr` into list of arguments. 
+- When `...arr` is used in function call, it expands an iterable object `arr` into list of arguments. 
 - Spread operator was added to JS in ES6. 
 
 2. List 4 things that the spread operator can do.
@@ -50,14 +50,15 @@
 ## How to Pass Functions Between Components
 
 1. In the video, what is the first step that the developer does to pass functions between components?
-- State exists at higher component, lower component triggers something to happen at that state
-- Create function at whereever the state is that we're going to change
+- State exists at higher component, lower component triggers something to happen at that state.
+- Create function at wherever the state is that we're going to change.
 
 2. In your own words, what does the increment function do?
 - The increment function updates the count based on the name that is passed from the object. 
 
 3. How can you pass a method from a parent component into a child component?
 - Create a new prop name and assign with this.method. It references the method that exists in the component object. 
+- `increment = {this.increment}`
 - It can be passed just like a prop. 
 
 4. How does the child component invoke a method that was passed to it from a parent component?
