@@ -13,6 +13,7 @@ For more information about my experience, check out my [LinkedIn](https://www.li
 1. Day One: [Intro to React and Components](301/class-01.md)
 2. Day Two: [State and Props](301/class-02.md)
 3. Day Three: [Passing Functions as Props](301/class-03.md)
+4. Day Four: [React and Forms](301/class-04.md)
 
 ### Code 201: Foundations of Software Development
 1. Day One: [JavaScript and HTML](201/class-01.md)
