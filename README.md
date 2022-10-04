@@ -15,6 +15,7 @@ For more information about my experience, check out my [LinkedIn](https://www.li
 3. Day Three: [Passing Functions as Props](301/class-03.md)
 4. Day Four: [React and Forms](301/class-04.md)
 5. Day Five: [Putting It All Together](301/class-05.md)
+6. Day Six: [Node.JS](301/class-06.md)
 
 ### Code 201: Foundations of Software Development
 1. Day One: [JavaScript and HTML](201/class-01.md)
