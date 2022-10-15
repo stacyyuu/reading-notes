@@ -41,7 +41,7 @@
 
 4. What do we have to do to make a module available?
 - You must explicitly say which part of the module you want to be available to other files. 
-- module.exports = whatever you want to be availble outside of this module (variable names, function names, etc.).
+- module.exports = whatever you want to be available outside of this module (variable names, function names, etc.).
 - Then you must create a variable with the same name of the data that the module is requiring from. 
 
 [Back to main page](README.md)
