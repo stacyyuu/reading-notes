@@ -19,6 +19,7 @@ For more information about my experience, check out my [LinkedIn](https://www.li
 7. Day Seven: [REST](301/class-07.md)
 8. Day Eight: [APIs](301/class-08.md)
 9. Day Nine: [Functional Programming](301/class-09.md)
+10. Day Ten: [In Memory Storage](301/class-10.md)
 
 ### Code 201: Foundations of Software Development
 1. Day One: [JavaScript and HTML](201/class-01.md)
@@ -35,7 +36,6 @@ For more information about my experience, check out my [LinkedIn](https://www.li
 12. Day Twelve: [Chart.js, Canvas](201/class-12.md)
 13. Day Thirteen: [Local Storage](201/class-13.md)
 14. Day Fourteen: [CSS Transforms, Transitions, and Animations](201/class-14.md), [Googles Quest for Perfect Team](201/class-14b.md)
-15. Day Fifteen 
 
 ### Code 102: Intro to Software Development
 1. Day One: [Markdown](102/markdown.md), [Growth Mindset](102/growthmindset.md)
