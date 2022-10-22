@@ -20,6 +20,7 @@ For more information about my experience, check out my [LinkedIn](https://www.li
 8. Day Eight: [APIs](301/class-08.md)
 9. Day Nine: [Functional Programming](301/class-09.md)
 10. Day Ten: [In Memory Storage](301/class-10.md)
+11. Day Eleven: [Mongo and Mongoose](301/class-11.md)
 
 ### Code 201: Foundations of Software Development
 1. Day One: [JavaScript and HTML](201/class-01.md)

@@ -24,8 +24,6 @@
 - `function firstFunction(){`<bR>
   `console.log("Hello from firstFunction");`
 `}`
-<br>
-
 - `function secondFunction(){`<br>
   `firstFunction();`<br>
   `console.log("The end from secondFunction");`
@@ -58,7 +56,7 @@
 - Solved by fixing the syntax. 
 
 3. What is a ‘range error’?
-- Maniupulating an object with some kind of length and giving it an invalid length. 
+- Manipulating an object with some kind of length and giving it an invalid length. 
 - Same for arrays. 
 
 4. What is a ‘type error’?
