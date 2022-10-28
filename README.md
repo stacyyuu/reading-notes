@@ -22,6 +22,7 @@ For more information about my experience, check out my [LinkedIn](https://www.li
 10. Day Ten: [In Memory Storage](301/class-10.md)
 11. Day Eleven: [Mongo and Mongoose](301/class-11.md)
 12. Day Twelve: [CRUD, REST API](301/class-12.md)
+13. Day Thirteen: [More CRUD](301/class-13.md)
 14. Day Fourteen: [Diversity and Inclusion in the Tech Industry](301/class-14.md)
 
 ### Code 201: Foundations of Software Development
