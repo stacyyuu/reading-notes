@@ -1,5 +1,8 @@
 ## Readings: More CRUD
 ---
+
+## CRUD Basics 
+
 - POST: Create, GET: Read, PUT: Update, and DELETE. 
 1. Which HTTP method would you use to update a record through an API?
 - POST: stores requested data sent to our API to our database.
