@@ -24,6 +24,7 @@ For more information about my experience, check out my [LinkedIn](https://www.li
 12. Day Twelve: [CRUD, REST API](301/class-12.md)
 13. Day Thirteen: [More CRUD](301/class-13.md)
 14. Day Fourteen: [Diversity and Inclusion in the Tech Industry](301/class-14.md)
+15. Day Fifteen: [Authentication](301/class-15.md)
 
 ### Code 201: Foundations of Software Development
 1. Day One: [JavaScript and HTML](201/class-01.md)

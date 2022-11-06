@@ -22,9 +22,9 @@
 
 2. If you had to describe the process of creating a RESTful API in 5 steps, what would they be?
 - POST: is the only RESTful API HTTP method that primarily operates on resource collections. When creating a lower position resource in a collection, applying POST to the parent resource prompts it to create a new resource, associate it with proper hierarchy and return a dedicated URL for later reference. 
-- PUT: single-resource equivalent of POST. It updates a resource by replacing its content entiretly. It is the most common way to update resource info. 
+- PUT: single-resource equivalent of POST. It updates a resource by replacing its content entirely. It is the most common way to update resource info. 
 - PATCH: another way to update resources, but it only modifies resource content. 
-- GET: the most common HTTP method. It returns a representational view of a resource's contents and data. Should be used in read-only mode, which keeps data safe and resource indempotent. You should get the same results, no matter how many times used, unless it is modified by another client. 
-- DELETE: when targetting a single resource, that resource is removed entirely. Can be somewhat inconsistent in that the URL for the resource may remain avail, even if the actual resource is absent.
+- GET: the most common HTTP method. It returns a representational view of a resource's contents and data. Should be used in read-only mode, which keeps data safe and resource idempotent. You should get the same results, no matter how many times used, unless it is modified by another client. 
+- DELETE: when targeting a single resource, that resource is removed entirely. Can be somewhat inconsistent in that the URL for the resource may remain avail, even if the actual resource is absent.
 
 [Back to main page](README.md)
