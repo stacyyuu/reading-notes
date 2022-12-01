@@ -9,6 +9,10 @@ For more information about my experience, check out my [LinkedIn](https://www.li
 
 ## Table of Contents
 
+### Code 401: Advanced Software Development in Full-Stack JavaScript
+1. [Practice in Terminal](401/class-1.md)
+
+
 ### Code 301: Intermediate Software Development
 1. Day One: [Intro to React and Components](301/class-01.md)
 2. Day Two: [State and Props](301/class-02.md)
