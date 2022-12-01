@@ -12,6 +12,7 @@ For more information about my experience, check out my [LinkedIn](https://www.li
 ### Code 401: Advanced Software Development in Full-Stack JavaScript
 1. [Practice in Terminal](401/class-1.md)
 2. [Data Structures and Algorithms](401/prep-2.md)
+3. [Engineer Readings](401/prep-3.md)
 
 
 ### Code 301: Intermediate Software Development
