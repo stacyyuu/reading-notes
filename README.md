@@ -13,6 +13,7 @@ For more information about my experience, check out my [LinkedIn](https://www.li
 1. [Practice in Terminal](401/class-1.md)
 2. [Data Structures and Algorithms](401/prep-2.md)
 3. [Engineer Readings](401/prep-3.md)
+4. [Relational Databases and SQL](401/prep-4.md)
 
 
 ### Code 301: Intermediate Software Development
