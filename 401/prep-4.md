@@ -198,6 +198,8 @@ RENAME TO new_table_name;
 - Drop table statement <br>
 DROP TABLE IF EXISTS mytable;
 
+## SQL Lessons 1-6, 13-18
+
 <img src = "img/SQL 1.png">
 <img src = "img/SQL 2.png">
 <img src = "img/SQL 3.png">
