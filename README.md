@@ -15,6 +15,7 @@ For more information about my experience, check out my [LinkedIn](https://www.li
 3. [Engineer Readings](401/prep-3.md)
 4. [Relational Databases and SQL](401/prep-4.md)
 5. Day One: [Node Ecosystem](401/class-01.md)
+6. Day Two: [Express, NPM, TDD, CI/CD](401/class-02.md)
 
 
 ### Code 301: Intermediate Software Development
