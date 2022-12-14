@@ -42,4 +42,4 @@
 - To remove or delete a file, you enter **`rm [options] <file>`**.
 - The Linux command line does not have an undo feature. 
 
-[Back to main page](README.md)
+[Back to main page](./README.md)
