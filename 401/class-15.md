@@ -16,6 +16,7 @@
 ### Traversals
 - An important aspect of trees is how to traverse them. 
 - It allows us to search for a node, print the contents of a tree, and more. 
+- Inspect each and touch each element. 
 <img src ="https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/images/tree-example.png">
 - Two categories:
 
