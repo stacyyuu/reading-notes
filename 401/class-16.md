@@ -14,7 +14,7 @@
 - Run cloud-native and enterprise apps
 - Develop for Apple platforms
 3. Provide 1 reason to use ECS instead of a service such as Heroku, Digital Ocean, or Render.com.
-- EC2 eliminates the need to invest in hardwore up front, so you can develop and deploy apps faster. 
+- EC2 eliminates the need to invest in hardware up front, so you can develop and deploy apps faster. 
 - It can be used to launch as many or as few virtual servers as you need. 
 
 ### EC2 For Humans
@@ -34,7 +34,7 @@
 1. What is Elastic Beanstalk?
 - Easy to use service that deploys, manages, and scales web apps and services for you. 
 2. Describe the relationship between EC2 and Elastic Beanstalk.
-- Elastic Beanstalk leverages EC2. It supports serveral Amazon EC2 instance purchasing options. 
+- Elastic Beanstalk leverages EC2. It supports several Amazon EC2 instance purchasing options. 
 3. Name some benefits of using Elastic Beanstalk.
 - Auto scales your app based on easy auto scale settings. 
 - Monitors the health of your app. 
