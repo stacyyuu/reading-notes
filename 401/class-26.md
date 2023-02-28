@@ -50,9 +50,9 @@
 - Class components and Function components. 
 
 2. Describe mutability and React Components, specifically, how is the UI updated?
-- React elements are immutable. Once it is created, its children or attributes can't be chaned. 
+- React elements are immutable. Once it is created, its children or attributes can't be changed. 
 - Acts like a single frame in a movie and represents the UI at a certain point in time.
 - The only way to update UI is to create a new element and pass it to `root.render()`.
 
-4. If changes are made to the UI, what does React update?
+3. If changes are made to the UI, what does React update?
 - React DOM compares the element and children to the previous one and only applies the DOM updates necessary to bring the DOM to the desired state. 
