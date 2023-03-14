@@ -8,15 +8,15 @@
 - Collisions are solved by changing the initial state of buckets. Instead of null, we can initialize a `LinkedList`.
 - **Use**: Hold unique values, dictionary, library
 - **Hashtable**: Data structure that utilizes key/value pairs. This means every `Node` or `Bucket` has both a key and a value. 
-- A hashtable allows the ability to store the key into this data structure and quickly retreieve it. 
+- A hashtable allows the ability to store the key into this data structure and quickly retrieve it. 
 - This is done with a **hash**.
-- A **hash** is the ability to encode the key that will eventually map to a specific location in the data structure to retreieve the value. 
+- A **hash** is the ability to encode the key that will eventually map to a specific location in the data structure to retrieve the value. 
 - **Hash code** turns a key into an integer. Deterministic: their output is determined only by their input - the same key should always produce the same hash code. 
 - **Creating a hash**: 
     - A hashtable is traditionally created from an array 
     - Create array of appropriate size for index placement
     - Add or multiply all ASCII values together
-    - Multipy by a prime number such as 599
+    - Multiply by a prime number such as 599
     - Use modulo to get remainder of result, when divided by total size of array
     - Insert into array at that index
  - **Hash maps do this to store values:**
