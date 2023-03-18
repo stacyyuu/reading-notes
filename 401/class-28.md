@@ -18,8 +18,10 @@
 
 1. In terms of state, what does useReducer expect to receive as a parameter?
 - It accepts a reducer function as its first parameter and the initial state as second. 
-- `const initialState = { count: 0 }` <br>
- `const [state, dispatch] = useReducer(reducer, initialState)`
+```js 
+const initialState = { count: 0 }`
+const [state, dispatch] = useReducer(reducer, initialState)
+```
 
 2. What does useReducer return?
 - It returns an array that holds the current state value and a `dispatch` function to which you can pass an action and later invoke it. 

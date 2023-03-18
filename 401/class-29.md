@@ -20,3 +20,35 @@
 - In React class, a subscription is set up in `componentDidMount` and cleaned up in `componentWillUnmount`. 
 - useEffect is designed to keep adding and removing a subscription together. If your effect returns a function, React will run it when it is time to clean up. 
 - React performs the cleanup when the component unmounts, this effect runs for every render. 
+
+```js
+import React, { useEffect } from 'react'
+useEffect(() => {
+  // contains first argument which is callback function
+  // function will be called after every render, when any piece of state is updated
+  console.log('hi, this happens with every render');
+
+  return (() => {
+    console.log('this happens with unmount');
+  });
+});
+```
+
+```js
+import React, { useEffect } from 'react'
+useEffect(() => {
+  // runs only on componentDidMount
+  // includes empty dependency array 
+}, []);
+```
+
+```js
+import React, { useEffect, useState } from 'react'
+
+const [counter, setCounter] = useState(0);
+
+useEffect(() => {
+  // runs on componentDidMount and when counter is updated, when a specific state is updated
+  console.log(counter);
+}, [counter]);
+```
