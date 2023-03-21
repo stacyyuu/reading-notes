@@ -25,3 +25,36 @@
     - Takeaway 2: 
 
     The consumer must have access to the same Context component - if you were to create a new context, with the same parameter as input, a new Context would be created and the data would not be passed. 
+
+
+```js
+export const userContext = createContext('');
+
+const App = () => {
+    const [userName, setUserName] = setState('Stacy');
+}
+
+return (
+    <UserContext.Provider value = {{userName, setUserName}}>
+        <Form />
+        <Results />
+    </UserContext.Provider>
+)
+
+////////////////////
+
+import { UserContext } from './App'
+
+const Form = () => {
+    const defaultUser = useContext(UserContext);
+
+    return (    
+        <form>
+            <label for = 'user'> User
+            <input value = {defaultUser.userName || ''}
+            onChange = {(e) => defaultUser.setUserName(e.target.value)}>
+            </label>
+        </form>
+    )
+}
+```
