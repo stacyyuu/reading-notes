@@ -4,16 +4,19 @@
 - **Graph**: non-linear data structure looked at as a collection of `vertices` (or `nodes`) potentially connected by line segments named `edges`. 
 - **Vertex**: also called a node, is a data object that can have zero or more adjacent vertices.
 - **Edge**: connection between two nodes.
-- **Neighbor**: neighbors of a node are its adjacent nodes, ex. connected via an edge. 
+- **Adjacent**: any two nodes which share an edge. 
+- **Neighbor**: all nodes connected to one node, ex. connected via an edge. 
+- **Path**: any list of edges from one node to another.
+- **Shortest path**: path with fewest edges.
 - **Degree**: number of edges connected to a vertex.
 - **Undirected graph**: a graph where each edge is **undirected** or **bi-directional**. it does not move in any direction.
-- This graph is **bi-directional**:
+- This graph is **bi-directional** and arrows go in both ways:
 ![bidirectional graph](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/UndirectedGraph.PNG)
 - It has 6 vertices and 7 undirected edges. 
 - **Vertices/Nodes** = {a,b,c,d,e,f}
 - **Edges** = {(a,c),(a,d),(b,c),(b,f),(c,e),(d,e),(e,f)}
 - **Directed graph**: also called a **Digraph**, is a graph where every edge is directed. each node is directed at another node with a specific requirement of what node should be referenced next. 
-- This graph is **directed**:
+- This graph is **directed** and can only go one way:
 ![directed graph](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/DirectedGraph.PNG)
 - It has 6 vertices and 8 directed edges. 
 - **Vertices** = {a,b,c,d,e,f}
